@@ -1,9 +1,15 @@
-# Source: Adapted from https://github.com/boettiger-lab/nasa-topst-env-justice (MIT)
+FROM rocker/rstudio:latest
 
-# Start with version-stable build of R, RStudio Server, and R packages.
-FROM ghcr.io/rocker-org/devcontainer/tidyverse:4.5
+ENV PASSWORD=rstudio
+ENV ROOT=TRUE
 
-USER rstudio
-WORKDIR /home/rstudio
-RUN usermod -s /bin/bash rstudio
-ENV PATH=$PATH:/home/rstudio/.local/bin
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    wget \
+    ca-certificates \
+    gdebi-core \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.24/quarto-1.8.24-linux-amd64.deb \
+    && gdebi -n quarto-1.8.24-linux-amd64.deb \
+    && rm quarto-1.8.24-linux-amd64.deb
