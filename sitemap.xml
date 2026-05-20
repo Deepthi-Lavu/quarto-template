@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/code.html</loc>
-    <lastmod>2026-05-20T09:29:42.961Z</lastmod>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/1_making_a_change.html</loc>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/markdown.html</loc>
-    <lastmod>2026-05-20T09:29:42.961Z</lastmod>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/5_inline_html.html</loc>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/4_images_videos_documents.html</loc>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
   </url>
   <url>
     <loc>https://pythonhealthdatascience.github.io/quarto-template/index.html</loc>
-    <lastmod>2026-05-20T09:29:42.961Z</lastmod>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/embed.html</loc>
-    <lastmod>2026-05-20T09:29:42.961Z</lastmod>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/2_markdown_basics.html</loc>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/frontmatter.html</loc>
-    <lastmod>2026-05-20T09:29:42.961Z</lastmod>
+    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/3_quarto_features.html</loc>
+    <lastmod>2026-05-20T10:51:51.001Z</lastmod>
   </url>
 </urlset>
