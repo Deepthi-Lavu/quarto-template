@@ -1,15 +1,13 @@
 ---
-title: Intersectionality of sex and ethnicity on primary care management of symptoms associated with colorectal cancer
+title: Intersectionality of sex and ethnicity and primary care management of symptoms associated with colorectal cancer
 author:
   - name: Deepthi Lavu
     orcid: 0000-0002-5922-9366
     affiliations: University of Exeter
-  - name: Thomas Monks
-    orcid: 0000-0003-2631-4481
-    affiliations: University of Exeter
+
 date: 06-01-2026
 ---
 
-This is a small Quarto website that we will use during the tutorial:
+This is a website that will share updates from the doctoral project
 
-> **Introduction to Quarto for Research Projects**. [Tutorial Website](https://pythonhealthdatascience.github.io/quarto-tutorial/).
+
