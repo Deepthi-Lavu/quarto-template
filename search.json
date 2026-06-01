@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Intersectionality of sex and ethnicity on primary care management of symptoms associated with colorectal cancer",
+    "title": "Intersectionality of sex and ethnicity and primary care management of symptoms associated with colorectal cancer",
     "section": "",
-    "text": "This is a small Quarto website that we will use during the tutorial:\n\nIntroduction to Quarto for Research Projects. Tutorial Website.",
+    "text": "This is a website that will share updates from the doctoral project",
     "crumbs": [
       "GitHub",
       "Overview"
@@ -24,23 +24,23 @@
   {
     "objectID": "pages/2_markdown_basics.html",
     "href": "pages/2_markdown_basics.html",
-    "title": "Exercise 2. Markdown basics",
+    "title": "CPRD STudy 1",
     "section": "",
     "text": "This is a test This is italic test\nThis is a test\nThis is italic test\n\n\n\n\n\n\nBullet point 1\n\nBullet point level 2\n\nBullet point level 3\n\n\nBack to level 1\n\n\nNumbered point 1\n\nNumbered point level 2\nNumbered point level 2 again\n\nBack to level 1\n\n\nFirst task\nFinished task\n\n\nQuarto helps me keep my work organised.\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk/\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
     "crumbs": [
       "GitHub",
-      "Exercise 2. Markdown basics"
+      "CPRD STudy 1"
     ]
   },
   {
     "objectID": "pages/2_markdown_basics.html#heading-2",
     "href": "pages/2_markdown_basics.html#heading-2",
-    "title": "Exercise 2. Markdown basics",
+    "title": "CPRD STudy 1",
     "section": "",
     "text": "This is a test This is italic test\nThis is a test\nThis is italic test\n\n\n\n\n\n\nBullet point 1\n\nBullet point level 2\n\nBullet point level 3\n\n\nBack to level 1\n\n\nNumbered point 1\n\nNumbered point level 2\nNumbered point level 2 again\n\nBack to level 1\n\n\nFirst task\nFinished task\n\n\nQuarto helps me keep my work organised.\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk/\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
     "crumbs": [
       "GitHub",
-      "Exercise 2. Markdown basics"
+      "CPRD STudy 1"
     ]
   },
   {
@@ -63,17 +63,6 @@
     "crumbs": [
       "GitHub",
       "Exercise 3. Quarto features"
-    ]
-  },
-  {
-    "objectID": "pages/1_making_a_change.html",
-    "href": "pages/1_making_a_change.html",
-    "title": "Exercise 1. Making a change",
-    "section": "",
-    "text": "This is a sentence\nThis is the second.",
-    "crumbs": [
-      "GitHub",
-      "Exercise 1. Making a change"
     ]
   }
 ]
