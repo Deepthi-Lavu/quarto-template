@@ -1,15 +1,27 @@
 ---
-title: Quarto Template
+title: Intersectionality of sex and ethnicity on primary care management of symptoms associated with colorectal cancer
 author:
-  - name: Amy Heather
-    orcid: 0000-0002-6596-3479
+  - name: Deepthi Lavu
+    orcid: 0000-0002-5922-9366
     affiliations: University of Exeter
-  - name: Thomas Monks
-    orcid: 0000-0003-2631-4481
+  - name: Sarah Price
+    orcid: 0000-0002-2228-2374
     affiliations: University of Exeter
+  - name: Gary Abel
+    orcid: 0000-0003-2231-5161
+    affiliations: University of Exeter
+  - name: Bianca Weiring
+    orcid: 0000-0001-6708-5705
+    affiliations: University of Exeter
+  - name: Yin Zhou
+    orcid: 0000-0002-8815-1457
+    affiliations: Queen Mary University London
+  - name: Richard Neal
+    orcid: 0000-0002-3544-2744
+    affiliations: University of Exeter
+
 date: 06-01-2026
 ---
 
-This is a small Quarto website that we will use during the tutorial:
+This website will be updated during the course of this PhD
 
-> **Introduction to Quarto for Research Projects**. [Tutorial Website](https://pythonhealthdatascience.github.io/quarto-tutorial/).

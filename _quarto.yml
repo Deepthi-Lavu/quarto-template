@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: Intersectionality of sex and ethnicity on primary care management of symptoms associated with colorectal cancer
+  title: Wellcome NIHR SPCR Primary Care Clinician Doctoral Project
   navbar:
     right:
       - icon: github
@@ -13,11 +13,10 @@ website:
       contents:
         - text: Overview
           href: index.qmd
-        - pages/1_making_a_change.qmd
-        - pages/2_markdown_basics.qmd
-        - pages/3_quarto_features.qmd
-        - pages/4_images_videos_documents.qmd
-        - pages/5_inline_html.qmd
+        - pages/Systematic Review.qmd
+        - pages/CPRD Study 1.qmd
+        - pages/CPRD Study 2.qmd
+        - pages/Focus groups and modified Delphi Concensus.qmd
 
 format:
   html:
