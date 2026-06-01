@@ -3,4 +3,4 @@ title: "Exercise 1. Making a change"
 ---
 This is a sentence
 
-This is the second sentnece
+This is the second. 
