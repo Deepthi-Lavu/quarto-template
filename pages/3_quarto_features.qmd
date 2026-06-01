@@ -1,3 +1,80 @@
 ---
 title: "Exercise 3. Quarto features"
 ---
+
+::: {.callout-note}
+This is a callout.
+You can use it to draw attention to important information.
+:::
+
+::: {.callout-tip}
+This is a tip.
+:::
+
+::: {.callout-warning}
+This is a warning.
+:::
+
+::: {.callout-important}
+This is important information.
+:::
+
+::: {.callout-caution}
+This is a caution.
+:::
+
+::: {.callout-tip title="Helpful tip"}
+Remember to save your file before you render.
+:::
+
+::: {.callout-note title="More details" collapse="true"}
+This extra information is hidden until you click the arrow.
+:::
+
+::: {.callout-note appearance="simple"}
+This is a simple callout.
+:::
+
+::: {.callout-note appearance="minimal"}
+This is a minimal callout.
+:::
+
+::: {.callout-note icon="false"}
+Default callout with icon removed
+:::
+
+::: {.callout-tip title="Helpful tip"}
+Take short breaks when you are concentrating
+:::
+
+::: {.callout-note title="More information" collapse="true"}
+You can come back to this note later if you need it
+:::
+
+
+:::: {.columns}
+
+::: {.column width=60%}
+This
+::: 
+
+
+::: {.column width=5%}
+Is
+::: 
+
+
+::: {.column width=35%}
+Not
+::: 
+
+::::
+
+[Visit the University of Exeter website](https://www.exeter.ac.uk){target="_blank"}
+
+
+Here is some text with a footnote.[^1]
+
+[^1]: This is the content of the footnote.
+
+

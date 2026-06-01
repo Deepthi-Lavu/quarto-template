@@ -1,3 +1,47 @@
 ---
 title: "Exercise 2. Markdown basics"
 ---
+# Heading 1
+
+***
+
+## Heading 2
+
+This is a **test**
+This is *italic test*
+
+This is a **test**
+
+This is *italic test*
+
+---
+
+### Heading 3
+
+#### Heading 4
+
+* Bullet point 1
+    * Bullet point level 2
+        * Bullet point level 3
+* Back to level 1
+
+1. Numbered point 1
+    a. Numbered point level 2 
+    b. Numbered point level 2 again
+2. Back to level 1
+
+* [ ] First task
+* [x] Finished task
+
+> Quarto helps me keep my work organised.
+
+[University of Exeter](https://www.exeter.ac.uk/)
+
+<https://www.exeter.ac.uk/>
+
+| Letter | Number |
+| - | - |
+| A | 1 |
+| B | 2 |
+| C | 3 |
+
