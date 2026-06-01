@@ -65,7 +65,7 @@ Is
 
 
 ::: {.column width=35%}
-Not
+No
 ::: 
 
 ::::
