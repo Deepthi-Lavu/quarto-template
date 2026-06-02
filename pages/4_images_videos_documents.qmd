@@ -1,5 +1,5 @@
 ---
-title: "Exercise 4. Images, videos and documents"
+title: "Foucs groups and modified Delphi concensus"
 ---
 
 ![](/images/Alice.jpg)
