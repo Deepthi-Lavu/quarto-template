@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Quarto Template"
+  title: "Wellcome NIHR SPCR Primary care clinician doctoral project"
   navbar:
     right:
       - icon: github
@@ -13,7 +13,7 @@ website:
       contents:
         - text: Overview
           href: index.qmd
-        - pages/1_making_a_change.qmd
+        - pages/Systematic review.qmd
         - pages/2_markdown_basics.qmd
         - pages/3_quarto_features.qmd
         - pages/4_images_videos_documents.qmd
@@ -21,4 +21,4 @@ website:
 
 format:
   html:
-    theme: default
+    theme: flatly
