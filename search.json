@@ -11,14 +11,25 @@
     ]
   },
   {
-    "objectID": "pages/4_images_videos_documents.html",
-    "href": "pages/4_images_videos_documents.html",
-    "title": "Foucs groups and modified Delphi concensus",
+    "objectID": "pages/3_quarto_features.html",
+    "href": "pages/3_quarto_features.html",
+    "title": "CPRD Study 2",
     "section": "",
-    "text": "Drag and drop the image to the folder from computer to the folder on quatro\n\n\n\n\n\n\n\n\n\n\nPhotograph of South Cloisters on St Lukes Campus\n\n\n\n\n\n\n\nThis is the embed link from youtube",
+    "text": "Note\n\n\n\nThis is a callout. You can use it to draw attention to important information.\nVisit the University of Exeter website\nHelp!!\nHere is some text with a footnote.1",
     "crumbs": [
       "GitHub",
-      "Foucs groups and modified Delphi concensus"
+      "CPRD Study 2"
+    ]
+  },
+  {
+    "objectID": "pages/3_quarto_features.html#footnotes",
+    "href": "pages/3_quarto_features.html#footnotes",
+    "title": "CPRD Study 2",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the content of the footnote.↩︎",
+    "crumbs": [
+      "GitHub",
+      "CPRD Study 2"
     ]
   },
   {
@@ -44,25 +55,14 @@
     ]
   },
   {
-    "objectID": "pages/3_quarto_features.html",
-    "href": "pages/3_quarto_features.html",
-    "title": "CPRD Study 2",
+    "objectID": "pages/4_images_videos_documents.html",
+    "href": "pages/4_images_videos_documents.html",
+    "title": "Foucs groups and modified Delphi concensus",
     "section": "",
-    "text": "Note\n\n\n\nThis is a callout. You can use it to draw attention to important information.\nVisit the University of Exeter website\nHelp!!\nHere is some text with a footnote.1",
+    "text": "Drag and drop the image to the folder from computer to the folder on quatro\n\n\n\n\n\n\n\n\n\n\nPhotograph of South Cloisters on St Lukes Campus\n\n\n\n\n\n\n\nThis is the embed link from youtube",
     "crumbs": [
       "GitHub",
-      "CPRD Study 2"
-    ]
-  },
-  {
-    "objectID": "pages/3_quarto_features.html#footnotes",
-    "href": "pages/3_quarto_features.html#footnotes",
-    "title": "CPRD Study 2",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the content of the footnote.↩︎",
-    "crumbs": [
-      "GitHub",
-      "CPRD Study 2"
+      "Foucs groups and modified Delphi concensus"
     ]
   }
 ]
