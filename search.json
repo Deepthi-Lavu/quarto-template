@@ -11,47 +11,14 @@
     ]
   },
   {
-    "objectID": "pages/3_quarto_features.html",
-    "href": "pages/3_quarto_features.html",
-    "title": "CPRD Study 2",
+    "objectID": "pages/5_inline_html.html",
+    "href": "pages/5_inline_html.html",
+    "title": "Contact us",
     "section": "",
-    "text": "Note\n\n\n\nThis is a callout. You can use it to draw attention to important information.\nVisit the University of Exeter website\nHelp!!\nHere is some text with a footnote.1",
+    "text": "email: d.lavu@exeter.ac.uk",
     "crumbs": [
       "GitHub",
-      "CPRD Study 2"
-    ]
-  },
-  {
-    "objectID": "pages/3_quarto_features.html#footnotes",
-    "href": "pages/3_quarto_features.html#footnotes",
-    "title": "CPRD Study 2",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is the content of the footnote.↩︎",
-    "crumbs": [
-      "GitHub",
-      "CPRD Study 2"
-    ]
-  },
-  {
-    "objectID": "pages/2_markdown_basics.html",
-    "href": "pages/2_markdown_basics.html",
-    "title": "CPRD Study 1",
-    "section": "",
-    "text": "This is a test This is italic test\nThis is a test\nThis is italic test\n\n\n\n\n\n\nBullet point 1\n\nBullet point level 2\n\nBullet point level 3\n\n\nBack to level 1\n\n\nNumbered point 1\n\nNumbered point level 2\nNumbered point level 2 again\n\nBack to level 1\n\n\nFirst task\nFinished task\n\n\nQuarto helps me keep my work organised.\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk/\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
-    "crumbs": [
-      "GitHub",
-      "CPRD Study 1"
-    ]
-  },
-  {
-    "objectID": "pages/2_markdown_basics.html#heading-2",
-    "href": "pages/2_markdown_basics.html#heading-2",
-    "title": "CPRD Study 1",
-    "section": "",
-    "text": "This is a test This is italic test\nThis is a test\nThis is italic test\n\n\n\n\n\n\nBullet point 1\n\nBullet point level 2\n\nBullet point level 3\n\n\nBack to level 1\n\n\nNumbered point 1\n\nNumbered point level 2\nNumbered point level 2 again\n\nBack to level 1\n\n\nFirst task\nFinished task\n\n\nQuarto helps me keep my work organised.\n\nUniversity of Exeter\nhttps://www.exeter.ac.uk/\n\n\n\nLetter\nNumber\n\n\n\n\nA\n1\n\n\nB\n2\n\n\nC\n3",
-    "crumbs": [
-      "GitHub",
-      "CPRD Study 1"
+      "Contact us"
     ]
   },
   {
@@ -59,21 +26,10 @@
     "href": "pages/Systematic review.html",
     "title": "Systematic Review",
     "section": "",
-    "text": "The protocol for this review is registered on PROSPERO.",
+    "text": "The protocol for this review is registered on PROSPERO: CRD420261406973",
     "crumbs": [
       "GitHub",
       "Systematic Review"
-    ]
-  },
-  {
-    "objectID": "pages/4_images_videos_documents.html",
-    "href": "pages/4_images_videos_documents.html",
-    "title": "Foucs groups and modified Delphi concensus",
-    "section": "",
-    "text": "Drag and drop the image to the folder from computer to the folder on quatro\n\n\n\n\n\n\n\n\n\n\nPhotograph of South Cloisters on St Lukes Campus\n\n\n\n\n\n\n\nThis is the embed link from youtube",
-    "crumbs": [
-      "GitHub",
-      "Foucs groups and modified Delphi concensus"
     ]
   }
 ]
