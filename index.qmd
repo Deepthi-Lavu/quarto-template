@@ -25,4 +25,7 @@ date: 06-01-2026
 
 This is a website that will share updates from the doctoral project
 
+<embed src="/images/Poster.pdf" width="100%" height="800px" />
+
+
 
