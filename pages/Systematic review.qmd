@@ -1,3 +1,6 @@
 ---
 title: "Systematic Review"
 ---
+::: {.callout-note appearance="simple"}
+The protocol for this review is registered on [PROSPERO.](https://www.crd.york.ac.uk/PROSPERO/view/CRD420261406973){target="_blank"}
+:::
