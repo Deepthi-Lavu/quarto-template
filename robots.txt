@@ -1,1 +1,1 @@
-Sitemap: https://Deepthi-Lavu.github.io/quarto-template/sitemap.xml
+Sitemap: https://Deepthi-Lavu.github.io/PhD/sitemap.xml
