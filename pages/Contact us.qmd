@@ -2,4 +2,4 @@
 title: "Contact us"
 ---
 
-email: d.lavu@exeter.ac.uk
+Email: d.lavu@exeter.ac.uk
